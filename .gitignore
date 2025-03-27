@@ -1,0 +1,12 @@
+hotelenv
+hotelenv/*
+hotelenv/
+mlruns
+mlruns/*
+mlruns/
+logs
+logs/*
+logs/
+hotel_reservation.egg-info
+hotel_reservation.egg-info/*
+hotel_reservation.egg-info/
